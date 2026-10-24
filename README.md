@@ -106,6 +106,7 @@ LosslessCut uses the Chromium browser's HTML5 video player, and not all formats/
 - App icon made by [Dimi Kazak](http://www.flaticon.com/authors/dimi-kazak "Dimi Kazak") from [www.flaticon.com](http://www.flaticon.com "Flaticon") is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0").
 - [Lottie animation by Chris Gannon](https://lottiefiles.com/7077-magic-flow).
 - Thanks to Adi Abinun and [@abdul-alhasany](https://github.com/mifi/lossless-cut/issues/2561) for UI work.
+- Thanks to [Anshaj Kumar](https://github.com/mangod12) for co-authoring video preview scaling in [PR #3134](https://github.com/mifi/lossless-cut/pull/3134).
 - Thanks to translators who helped translate the app. [You can too!](https://losslesscut.app/docs/translation)
 - [Thanks to everyone for supporting](https://mifi.no/thanks/) my open source work 🙌
 
